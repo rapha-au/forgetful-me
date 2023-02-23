@@ -1,0 +1,13 @@
+[package]
+name = "forgetful-me"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.23"
+inquire = { version = "0.5.3", default-features = false, features = ["crossterm", "date"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+strum = "0.24"
+strum_macros = "0.24"
+colored = "2"
