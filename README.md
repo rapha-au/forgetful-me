@@ -1,4 +1,9 @@
+# Forgetful Me
 
-# Placeholder
+Forgetful Me is a simple terminal task manager and reminder made with `inquire`.
 
-For Now.
+# Todo
+
+- [x] Indicate how many of each colored task remains
+- [ ] Rewrite redundant code
+- [ ] Repeatable tasks(?)
